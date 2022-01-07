@@ -1,0 +1,65 @@
+{
+   "title":"HYPERBOLIC LATE CHAMBER ROUND ONE",
+   "description":"A compilation of every HLC comic",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "2":{
+         "title":"Felix/Brat-Hog VS. Nicotino (by Charlamagne)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kgg7J6p/"
+         },
+         "last_updated":"1638248340"
+      },
+      "3":{
+         "title":"Metphies VS. Jael (by Dankster)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/L1QM3dp/"
+         },
+         "last_updated":"1638248340"
+      },
+      "4":{
+         "title":"Jael VS. Metphies (by brianna)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/hzQjltt/"
+         },
+         "last_updated":"1638248340"
+      },
+      "9":{
+         "title":"Storm and Kneecaps VS. Weaber (by Soul/Ginger)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BmNoQaq/"
+         },
+         "last_updated":"1638248340"
+      },
+      "17":{
+         "title":"Nine of Swords VS. Rikigun (by nameless)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FSAvoss/"
+         },
+         "last_updated":"1638248340"
+      },
+      "18":{
+         "title":"Rikigun VS. Nine of Swords (by th3CrazyGuardian)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uplpVAu/"
+         },
+         "last_updated":"1638248340"
+      },
+      "20":{
+         "title":"The Queen VS. Peter Panini (by Rafflesia)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/y4vLCJL/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
