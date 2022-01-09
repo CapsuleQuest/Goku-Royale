@@ -1,10 +1,26 @@
 {
    "title":"HYPERBOLIC LATE CHAMBER ROUND ONE",
-   "description":"A compilation of every HLC comic",
+   "description":"A compilation of every HLC comic. If you notice anything weird with the archive, contact Capsule#4659",
    "artist":"-",
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
+      "1":{
+         "title":"Nicotino VS. Felix/Brat-Hog (by Prom)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gBXWf6p/"
+         },
+         "last_updated":"1638248340"
+      },
+      "2":{
+         "title":"Felix/Brat-Hog VS. Nicotino (by Charlamagne)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kgg7J6p/"
+         },
+         "last_updated":"1638248340"
+      },
       "3":{
          "title":"Metphies VS. Jael (by Dankster)",
          "volume":"1",
@@ -34,6 +50,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/MHlOOP6/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Utah Raptor VS. Doctor HUH? (by Drakk)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FV2IkBC/"
          },
          "last_updated":"1638248340"
       },
@@ -149,11 +173,35 @@
          },
          "last_updated":"1638248340"
       },
+      "26":{
+         "title":"K-OHR VS. Layla (by doodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BepvnUV/"
+         },
+         "last_updated":"1638248340"
+      },
       "27":{
          "title":"Daki VS. Slendercoot (by Yuri)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/WiEd3I4/"
+         },
+         "last_updated":"1638248340"
+      },
+      "28":{
+         "title":"Slendercoot VS. Daki (by Stinkman)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/AsVamVX/"
+         },
+         "last_updated":"1638248340"
+      },
+      "29":{
+         "title":"Mayor Defacto VS. King of All the Courts (by Saverin)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/s4N27fy/"
          },
          "last_updated":"1638248340"
       },
