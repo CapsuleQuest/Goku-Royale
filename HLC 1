@@ -29,11 +29,43 @@
          },
          "last_updated":"1638248340"
       },
+      "5":{
+         "title":"Pat, the Vortian VS. Carrotina & Agentina (by JojojoV)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nmuesD8/"
+         },
+         "last_updated":"1638248340"
+      },
+      "6":{
+         "title":"Carrotina & Agentina VS. Pat, the Vortian (by L-Mop)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MHlOOP6/"
+         },
+         "last_updated":"1638248340"
+      },
       "9":{
          "title":"Storm and Kneecaps VS. Weaber (by Soul/Ginger)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/BmNoQaq/"
+         },
+         "last_updated":"1638248340"
+      },
+      "13":{
+         "title":"Farmer VS. Expiriment 997 VS. Eda Alkan (by vell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Z5rjy2a/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"Lothario VS. The Last Fresnoid VS. Chantilly Cream (by icaruswq12_exp)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Xs6JVG9/"
          },
          "last_updated":"1638248340"
       },
@@ -53,11 +85,59 @@
          },
          "last_updated":"1638248340"
       },
+      "19":{
+         "title":"Peter Panini VS. The Queen (by swoopfell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ldP4TvC/"
+         },
+         "last_updated":"1638248340"
+      },
       "20":{
          "title":"The Queen VS. Peter Panini (by Rafflesia)",
          "volume":"1",
          "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/y4vLCJL/"
+            "Imgur":"/proxy/api/imgur/chapter/ldP4TvC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "24":{
+         "title":"Wendigo VS. Charlotte (by Draxium)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zAj7mxE/"
+         },
+         "last_updated":"1638248340"
+      },
+      "27":{
+         "title":"Daki VS. Slendercoot (by Yuri)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WiEd3I4/"
+         },
+         "last_updated":"1638248340"
+      },
+      "31":{
+         "title":"Dover VS. Man-Man (by Decemdog)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rd4TWPi/"
+         },
+         "last_updated":"1638248340"
+      },
+      "32":{
+         "title":"Man-Man VS. Dover (by Noogai223)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yAmHqWr/"
+         },
+         "last_updated":"1638248340"
+      },
+      "33":{
+         "title":"Miss Souri VS. Cuss the Theatre Cat (by PoolNoodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cq24gcT/"
          },
          "last_updated":"1638248340"
       }
