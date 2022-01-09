@@ -5,14 +5,6 @@
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
-      "2":{
-         "title":"Felix/Brat-Hog VS. Nicotino (by Charlamagne)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/kgg7J6p/"
-         },
-         "last_updated":"1638248340"
-      },
       "3":{
          "title":"Metphies VS. Jael (by Dankster)",
          "volume":"1",
@@ -53,6 +45,14 @@
          },
          "last_updated":"1638248340"
       },
+      "12":{
+         "title":"Amongusman from Henry Stickman Game VS. Cardghost (by Spineless Coward)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/teLAOIA/"
+         },
+         "last_updated":"1638248340"
+      },
       "13":{
          "title":"Farmer VS. Expiriment 997 VS. Eda Alkan (by vell)",
          "volume":"1",
@@ -61,11 +61,27 @@
          },
          "last_updated":"1638248340"
       },
+      "14":{
+         "title":"Expiriment 997 VS. Eda Alkan VS. Farmer (by Dande)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/CiqaO3b/"
+         },
+         "last_updated":"1638248340"
+      },
       "15":{
          "title":"Lothario VS. The Last Fresnoid VS. Chantilly Cream (by icaruswq12_exp)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/Xs6JVG9/"
+         },
+         "last_updated":"1638248340"
+      },
+      "16":{
+         "title":"The Last Fresnoid VS. Chantilly Cream VS. Lothario (by frito)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/suXRJDk/"
          },
          "last_updated":"1638248340"
       },
@@ -101,6 +117,30 @@
          },
          "last_updated":"1638248340"
       },
+      "21":{
+         "title":"x_FLUFFBUNZ_x1994 VS. Gregg Edward Mann (by sleepy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/fNPJauR/"
+         },
+         "last_updated":"1638248340"
+      },
+      "22":{
+         "title":"Gregg Edward Mann VS. x_FLUFFBUNZ_x1994 (by Mr. Black)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/eurcbxJ/"
+         },
+         "last_updated":"1638248340"
+      },
+      "23":{
+         "title":"Charlotte VS. Wendigo (by krispykreme)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mIXmjkC/"
+         },
+         "last_updated":"1638248340"
+      },
       "24":{
          "title":"Wendigo VS. Charlotte (by Draxium)",
          "volume":"1",
@@ -114,6 +154,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/WiEd3I4/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"King of All the Courts VS. Mayor Defacto (by Goatwright)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/aFtJ2dk/"
          },
          "last_updated":"1638248340"
       },
