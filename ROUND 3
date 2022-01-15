@@ -1,1 +1,106 @@
 
+{
+   "title":"GOKU ROYALE ROUND THREE",
+   "description":"A compilation of every Round 3 GOKU ROYALE comic. If something looks off, please message Capsule#4659",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "4":{
+         "title":"The Twiceler VS. Bare Lasard (by Myeth)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/imkBlHi/"
+         },
+         "last_updated":"1638248340"
+      },
+      "10":{
+         "title":"This F*cking Guy VS. Boid and Outline (by Feaurie)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jruxFys/"
+         },
+         "last_updated":"1638248340"
+      },
+      "18":{
+         "title":"Mr. F VS. Skrylar VS. Sagius (by Jojo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rUjHSoF/"
+         },
+         "last_updated":"1638248340"
+      },
+      "33":{
+         "title":"emm s. pain VS. Deda Yaga (by slug)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZFhFAB9/"
+         },
+         "last_updated":"1638248340"
+      },
+      "34":{
+         "title":"Deda Yaga VS. emm s. pain (by Rustytoast)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yDyLwUk/"
+         },
+         "last_updated":"1638248340"
+      },
+      "36":{
+         "title":"Xantor the DJ Warlock VS. Hurdy and Squatella (by Pancake Lord)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uZ7qAd9/"
+         },
+         "last_updated":"1638248340"
+      },
+      "37":{
+         "title":"Vasya Sapozhnikov VS. The Shadow (Kent Cranston) (by Ninja)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/AfFHdMb/"
+         },
+         "last_updated":"1638248340"
+      },
+      "46":{
+         "title":"Blazer VS. Sherley Holmes (by mithryl)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5Sm6XST/"
+         },
+         "last_updated":"1638248340"
+      },
+      "49":{
+         "title":"Jeremy Poole VS. The Platonic Form of Edge (by Shinto)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZZYPATS/"
+         },
+         "last_updated":"1638248340"
+      },
+      "50":{
+         "title":"The Platonic Form of Edge VS. Jeremy Poole (by Jelly)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/hnvCIN6/"
+         },
+         "last_updated":"1638248340"
+      },
+      "68":{
+         "title":"Harold, the Unchaparoned Vagrant VS. Shemp (by Skoobert Doo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nSFwP4c/"
+         },
+         "last_updated":"1638248340"
+      },
+      "70":{
+         "title":"Liquidation Manager Davis Wong VS.  (by Stryvec)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9nIM2P7/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
