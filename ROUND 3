@@ -1,4 +1,3 @@
-
 {
    "title":"GOKU ROYALE ROUND THREE",
    "description":"A compilation of every Round 3 GOKU ROYALE comic. If something looks off, please message Capsule#4659",
@@ -6,11 +5,67 @@
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
+      "2":{
+         "title":"Fujoshi na Faita VS. Skringus (by TheRebelSpy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/tDz6Emo/"
+         },
+         "last_updated":"1638248340"
+      },
+      "3":{
+         "title":"Bare Lasard VS. The Twiceler (by ORA)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yPKDIh9/"
+         },
+         "last_updated":"1638248340"
+      },
       "4":{
          "title":"The Twiceler VS. Bare Lasard (by Myeth)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/imkBlHi/"
+         },
+         "last_updated":"1638248340"
+      },
+      "5":{
+         "title":"Tiny Squim VS. the HAWB (HakuAkuWakkoBaku) (by Pengogo and breaknbake)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/UITT5L9/"
+         },
+         "last_updated":"1638248340"
+      },
+      "6":{
+         "title":"the HAWB (HakuAkuWakkoBaku) VS. Tiny Squim (by Pyrite)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rvXRzwT/"
+         },
+         "last_updated":"1638248340"
+      },
+      "7":{
+         "title":"Ward of the Cosmos VS. Mewza (by spookyseadweller)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xUfCGbR/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Mewza VS. Ward of the Cosmos (by Cevapi)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uEaAekh/"
+         },
+         "last_updated":"1638248340"
+      },
+      "9":{
+         "title":"Boid and Outline VS. This F*cking Guy (by Vitic)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kTDfbMS/"
          },
          "last_updated":"1638248340"
       },
@@ -22,11 +77,139 @@
          },
          "last_updated":"1638248340"
       },
+      "11":{
+         "title":"Snailman VS. Mr. Mister (by Chaddiffer)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PB59wtM/"
+         },
+         "last_updated":"1638248340"
+      },
+      "12":{
+         "title":"Mr. Mister VS. Snailman (by Luzu)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PM6LK2K/"
+         },
+         "last_updated":"1638248340"
+      },
+      "13":{
+         "title":"Leo Seraph and Floor Clown VS. The Feathered Giant VS. Gertrude (by Johannhawk)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/e7SroUX/"
+         },
+         "last_updated":"1638248340"
+      },
+      "14":{
+         "title":"The Feathered Giant VS. Gertrude VS. Leo Seraph and Floor Clown (by Selevan)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yeSViPl/"
+         },
+         "last_updated":"1638248340"
+      },
+      "16":{
+         "title":"Skrylar VS. Sagius VS. Mr. F (by Vortexz)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YvWPo2v/"
+         },
+         "last_updated":"1638248340"
+      },
+      "17":{
+         "title":"Sagius VS. Mr. F VS. Skrylar (by Rainbowluck)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/bK8XVIt/"
+         },
+         "last_updated":"1638248340"
+      },
       "18":{
          "title":"Mr. F VS. Skrylar VS. Sagius (by Jojo)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/rUjHSoF/"
+         },
+         "last_updated":"1638248340"
+      },
+      "19":{
+         "title":"Harmony VS. Doug from Frasier (by Capsule)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter//riRVbR/"
+         },
+         "last_updated":"1638248340"
+      },
+      "22":{
+         "title":"Hasumi VS. Rina Shiromiya (by Kujara)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/wHhPEay/"
+         },
+         "last_updated":"1638248340"
+      },
+      "23":{
+         "title":"The Axiom/AUTO VS. Dan Backslide (by Maple)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Bu2sSC7/"
+         },
+         "last_updated":"1638248340"
+      },
+      "24":{
+         "title":"Dan Backslide VS. The Axiom/AUTO (by Skully)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/GZtq2Zd/"
+         },
+         "last_updated":"1638248340"
+      },
+      "25":{
+         "title":"Snowball VS. Bo-Yellow (by Spaghetti)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gvHlnpw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "27":{
+         "title":"Toa Mirraz VS. Girlboss Squad (by rex_rissole)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8VKKNNf/"
+         },
+         "last_updated":"1638248340"
+      },
+      "29":{
+         "title":"Sailor Phyrexia VS. Kohimaru (by moonsettler)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/el8uCtj/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"Kohimaru VS. Sailor Phyrexia (by Hisagium)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/tr2RXfw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "31":{
+         "title":"Go and Coup VS. Hammer Spongeson Potpants (by Kipp)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0eAu3KZ/"
+         },
+         "last_updated":"1638248340"
+      },
+      "32":{
+         "title":"Hammer Spongeson Potpants VS. Go and Coup (by Microwave Ghastly)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EalSenj/"
          },
          "last_updated":"1638248340"
       },
@@ -46,6 +229,14 @@
          },
          "last_updated":"1638248340"
       },
+      "35":{
+         "title":"Hurdy and Squatella VS. Xantor the DJ Warlock (by CamCato)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ai18yhH/"
+         },
+         "last_updated":"1638248340"
+      },
       "36":{
          "title":"Xantor the DJ Warlock VS. Hurdy and Squatella (by Pancake Lord)",
          "volume":"1",
@@ -62,11 +253,67 @@
          },
          "last_updated":"1638248340"
       },
+      "38":{
+         "title":"The Shadow (Kent Cranston) VS. Vasya Sapozhnikov (by Gibs)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/x68jscT/"
+         },
+         "last_updated":"1638248340"
+      },
+      "39":{
+         "title":"Michael Loup VS. Bonito Whodunit (by maxes)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WY43EPC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "41":{
+         "title":"Fath Kakdalbomrek VS. Kayu the Summoner (by baubleboy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cyYwkib/"
+         },
+         "last_updated":"1638248340"
+      },
+      "42":{
+         "title":"Kayu the Summoner VS. Fath Kakdalbomrek (by Rags)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1eFI0gU/"
+         },
+         "last_updated":"1638248340"
+      },
+      "45":{
+         "title":"Sherley Holmes VS. Blazer (by Popcat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/261hZax/"
+         },
+         "last_updated":"1638248340"
+      },
       "46":{
          "title":"Blazer VS. Sherley Holmes (by mithryl)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/5Sm6XST/"
+         },
+         "last_updated":"1638248340"
+      },
+      "47":{
+         "title":"Y̷O̶U̵N̴G̷S̸T̶E̵R̸ VS. Pneumotris Swarm (by Storm)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZTSQuhz/"
+         },
+         "last_updated":"1638248340"
+      },
+      "48":{
+         "title":"Pneumotris Swarm VS. Y̷O̶U̵N̴G̷S̸T̶E̵R̸ (by Revil_0)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/12dirNM/"
          },
          "last_updated":"1638248340"
       },
@@ -83,6 +330,94 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/hnvCIN6/"
+         },
+         "last_updated":"1638248340"
+      },
+      "51":{
+         "title":"Giuseppe VS. Minako (by Snix)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/LadOtKC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "53":{
+         "title":"The Toker VS. Beatrice Liz Grimgrave (by Sal)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YnznWnL/"
+         },
+         "last_updated":"1638248340"
+      },
+      "54":{
+         "title":"Beatrice Liz Grimgrave VS. The Toker (by xeno112)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/I4qvYJp/"
+         },
+         "last_updated":"1638248340"
+      },
+      "55":{
+         "title":"The Verdure VS. Cummingtonite (by Starstruck)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/x2lSyLw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "61":{
+         "title":"Ultra 1 VS. Arsene Lupin the 13th (by RedStalk)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/lQm9XmU/"
+         },
+         "last_updated":"1638248340"
+      },
+      "62":{
+         "title":"C.A.R.L. VS. Bosch Fight (by Paper Shredder)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/h5WlP9l/"
+         },
+         "last_updated":"1638248340"
+      },
+      "63":{
+         "title":"Bosch Fight VS. C.A.R.L. (by Skoobert Doo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/IEg4SNb/"
+         },
+         "last_updated":"1638248340"
+      },
+      "64":{
+         "title":"Bingley and Yar'Versum VS. Guilamme Des-Moines (by Kiloken)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/n2izeGK/"
+         },
+         "last_updated":"1638248340"
+      },
+      "65":{
+         "title":"Guilamme Des-Moines VS. Bingley and Yar'Versum (by Fridge)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/s5wceal/"
+         },
+         "last_updated":"1638248340"
+      },
+      "66":{
+         "title":"Captain Propain VS. Zhanpeng (by owlbat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NlI7DlW/"
+         },
+         "last_updated":"1638248340"
+      },
+      "67":{
+         "title":"Zhanpeng VS. Captain Propain (by 0ystercause)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1pug8RF/"
          },
          "last_updated":"1638248340"
       },
