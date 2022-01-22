@@ -1,0 +1,65 @@
+{
+   "title":"HYPERBOLIC LATE CHAMBER ROUND ONE",
+   "description":"A compilation of every HLC 2 comic. If you notice anything weird with the archive, contact Capsule#4659",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "6":{
+         "title":"Storm and Kneecaps VS. El Darko (by Soul/Ginger)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/dLfWdSs/"
+         },
+         "last_updated":"1638248340"
+      },
+      "12":{
+         "title":"Jael VS. Gregg Edward Mann (by brianna)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/drzAV3r/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"Melpomene VS. Charlotte (by PoolNoodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gtxG4qw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "19":{
+         "title":"Nicotino VS. Daki (by Prom)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/UBZSFrc/"
+         },
+         "last_updated":"1638248340"
+      },
+      "20":{
+         "title":"Daki VS. Nicotino (by Yuri)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5rOGC5m/"
+         },
+         "last_updated":"1638248340"
+      },
+      "22":{
+         "title":"Carrotina & Agentina VS. x_FLUFFBUNZ_x1994 (by L-Mop)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MrOQujN/"
+         },
+         "last_updated":"1638248340"
+      },
+      "28":{
+         "title":"Nine of Swords VS. Peter Panini (by nameless)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8ulftf5/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
