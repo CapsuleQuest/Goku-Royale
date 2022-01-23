@@ -61,6 +61,14 @@
          },
          "last_updated":"1638248340"
       },
+      "10":{
+         "title":"Slendercoot VS. Dover (by Stinkman)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/pqoYQL5/"
+         },
+         "last_updated":"1638248340"
+      },
       "11":{
          "title":"Gregg Edward Mann VS. Jael (by Mr. Black)",
          "volume":"1",
@@ -186,6 +194,22 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/9BlvKqe/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"Cuss the Theatre Cat VS. K-OHR (by Baba)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zR5W0oK/"
+         },
+         "last_updated":"1638248340"
+      },
+      "31":{
+         "title":"King of All the Courts VS. Pat, The Vortian (by Goatwright)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/B3wCgET/"
          },
          "last_updated":"1638248340"
       }
