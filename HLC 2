@@ -5,11 +5,67 @@
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
+      "1":{
+         "title":"Doctor HUH? VS. Utah Raptor (by Mr. Kent)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/sEkm8tV/"
+         },
+         "last_updated":"1638248340"
+      },
+      "2":{
+         "title":"Utah Raptor VS. Doctor HUH? (by Drakk)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FV2IkBC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "3":{
+         "title":"Cardghost VS. The Breakneck Batallion (by Kaboom)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/D15LYxL/"
+         },
+         "last_updated":"1638248340"
+      },
+      "4":{
+         "title":"The Breakneck Batallion VS. Cardghost (by th3CrazyGuardian)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/XrY8TwL/"
+         },
+         "last_updated":"1638248340"
+      },
+      "5":{
+         "title":"El Darko VS. Storm and Kneecaps (by Charlamagne)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/v6Sb3dq/"
+         },
+         "last_updated":"1638248340"
+      },
       "6":{
          "title":"Storm and Kneecaps VS. El Darko (by Soul/Ginger)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/dLfWdSs/"
+         },
+         "last_updated":"1638248340"
+      },
+      "7":{
+         "title":"Farmer VS. The Last Fresnoid (by vell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/XqahzLq/"
+         },
+         "last_updated":"1638248340"
+      },
+      "11":{
+         "title":"Gregg Edward Mann VS. Jael (by Mr. Black)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/svylbvv/"
          },
          "last_updated":"1638248340"
       },
@@ -21,11 +77,35 @@
          },
          "last_updated":"1638248340"
       },
+      "13":{
+         "title":"Agent Y VS. Lothario (by Saverin)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/E2mJraD/"
+         },
+         "last_updated":"1638248340"
+      },
       "15":{
          "title":"Melpomene VS. Charlotte (by PoolNoodle)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/gtxG4qw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "16":{
+         "title":"Charlotte VS. Melpomene (by krispykreme)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YD9kRLa/"
+         },
+         "last_updated":"1638248340"
+      },
+      "17":{
+         "title":"Metphies VS. Weaber (by Dankster)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FKJrQqw/"
          },
          "last_updated":"1638248340"
       },
@@ -45,6 +125,14 @@
          },
          "last_updated":"1638248340"
       },
+      "21":{
+         "title":"x_FLUFFBUNZ_x1994 VS. Carrotina & Agentina (by sleepy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MFtOCsU/"
+         },
+         "last_updated":"1638248340"
+      },
       "22":{
          "title":"Carrotina & Agentina VS. x_FLUFFBUNZ_x1994 (by L-Mop)",
          "volume":"1",
@@ -53,11 +141,51 @@
          },
          "last_updated":"1638248340"
       },
+      "23":{
+         "title":"Man-Man VS. The Queen (by Noogai223)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EloGtGk/"
+         },
+         "last_updated":"1638248340"
+      },
+      "25":{
+         "title":"Expiriment 997 VS. Amongusman from Henry Stickman Game (by Dande)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/i9EjPVf/"
+         },
+         "last_updated":"1638248340"
+      },
+      "26":{
+         "title":"Amongusman from Henry Stickman Game VS. Expiriment 997 (by Spineless Coward)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/DZBtL2R/"
+         },
+         "last_updated":"1638248340"
+      },
+      "27":{
+         "title":"Peter Panini VS. Nine of Swords (by swoopfell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/oXGRM5c/"
+         },
+         "last_updated":"1638248340"
+      },
       "28":{
          "title":"Nine of Swords VS. Peter Panini (by nameless)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/8ulftf5/"
+         },
+         "last_updated":"1638248340"
+      },
+      "29":{
+         "title":"K-OHR VS. Cuss the Theatre Cat (by doodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9BlvKqe/"
          },
          "last_updated":"1638248340"
       }
