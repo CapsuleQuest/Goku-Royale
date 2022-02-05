@@ -1,0 +1,49 @@
+{
+   "title":"HYPERBOLIC LATE CHAMBER ROUND THREE",
+   "description":"A compilation of every HLC 3 comic. If you notice anything weird with the archive, contact Capsule#4659",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "1":{
+         "title":"x_FLUFFBUNZ_x1994 VS. King of All the Courts (by sleepy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Zw4JLve/"
+         },
+         "last_updated":"1638248340"
+      },
+      "2":{
+         "title":"Jael VS. Amongusman from Henry Stickman Game (by brianna)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xUT3T4N/"
+         },
+         "last_updated":"1638248340"
+      },
+      "6":{
+         "title":"Nine of Swords VS. El Darko (by nameless)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/B2snBz6/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Carrotina & Agentina VS. Agent Y (by L-Mop)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nsRLBU4/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"Melpomene VS. Lothario (by PoolNoodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/z5yxkH4/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
