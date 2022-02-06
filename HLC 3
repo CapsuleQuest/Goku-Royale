@@ -85,6 +85,14 @@
          },
          "last_updated":"1638248340"
       },
+      "11":{
+         "title":"Man-Man VS. Slendercoot (by Noogai223)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rUU9ICk/"
+         },
+         "last_updated":"1638248340"
+      },
       "12":{
          "title":"Slendercoot VS. Man-Man (by Stinkman)",
          "volume":"1",
@@ -154,6 +162,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/OMCyJHw/"
+         },
+         "last_updated":"1638248340"
+      },
+      "23":{
+         "title":"Cuss the Theatre Cat VS. Farmer (by Baba)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cpfQur7/"
          },
          "last_updated":"1638248340"
       }
