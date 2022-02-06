@@ -21,6 +21,14 @@
          },
          "last_updated":"1638248340"
       },
+      "3":{
+         "title":"Tsubaki VS. The Breakneck Batallion (by Yuri)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Z51T4sL/"
+         },
+         "last_updated":"1638248340"
+      },
       "6":{
          "title":"Nine of Swords VS. El Darko (by nameless)",
          "volume":"1",
@@ -37,11 +45,43 @@
          },
          "last_updated":"1638248340"
       },
+      "10":{
+         "title":"Slendercoot VS. Man-Man (by Stinkman)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Z0JORjg/"
+         },
+         "last_updated":"1638248340"
+      },
       "15":{
          "title":"Melpomene VS. Lothario (by PoolNoodle)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/z5yxkH4/"
+         },
+         "last_updated":"1638248340"
+      },
+      "16":{
+         "title":"Lothario VS. Melpomene (by icaruswq12_exp)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Sj1BNgO/"
+         },
+         "last_updated":"1638248340"
+      },
+      "18":{
+         "title":"Peter Panini VS. Doctor HUH? VS. Expiriment 997 (by swoopfell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Ocxaqdt/"
+         },
+         "last_updated":"1638248340"
+      },
+      "20":{
+         "title":"Farmer VS. Cuss the Theatre Cat (by vell)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/OMCyJHw/"
          },
          "last_updated":"1638248340"
       }
