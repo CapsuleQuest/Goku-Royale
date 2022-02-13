@@ -1,5 +1,5 @@
 {
-   "title":"GOKU ROYALE ROUND FOUR",
+   "title":"GOKU ROYALE ROUND THREE",
    "description":"A compilation of every Round 4 GOKU ROYALE comic. If something looks off, please message Capsule#4659",
    "artist":"-",
    "author":"The creator of each comic has been placed after the characters fighting",
@@ -18,6 +18,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/KzO0tI6/"
+         },
+         "last_updated":"1638248340"
+      },
+      "3":{
+         "title":"Go and Coup VS. Harold, the Unchaparoned Vagrant VS. Fujoshi na Faita VS. This F*cking Guy (by Kipp)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/36zg5f9/"
          },
          "last_updated":"1638248340"
       },
@@ -98,6 +106,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/pN9YucC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"The Hex Crew VS. Zel VS. Xantor the DJ Warlock (by Bel Phegor)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/foeyv4z/"
          },
          "last_updated":"1638248340"
       },
@@ -197,6 +213,14 @@
          },
          "last_updated":"1638248340"
       },
+      "28":{
+         "title":"Sherley Holmes VS. Sagius VS. Bingley and Yar'Versum VS. Cummingtonite (by Popcat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jFb7fDv/"
+         },
+         "last_updated":"1638248340"
+      },
       "29":{
          "title":"Sagius VS. Bingley and Yar'Versum VS. Cummingtonite VS. Sherley Holmes (by Rainbowluck)",
          "volume":"1",
@@ -261,11 +285,27 @@
          },
          "last_updated":"1638248340"
       },
+      "40":{
+         "title":"Kohimaru VS. Kyluc and Mimi VS. Captain Propain VS. Ultra 1 (by Hisagium)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/iRTvLLp/"
+         },
+         "last_updated":"1638248340"
+      },
       "42":{
          "title":"Captain Propain VS. Ultra 1 VS. Kohimaru VS. Kyluc and Mimi (by owlbat)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/XJgNR8N/"
+         },
+         "last_updated":"1638248340"
+      },
+      "44":{
+         "title":"Fath Kakdalbomrek VS. Bosch Fight VS. Michael Loup (by baubleboy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/paLlf6L/"
          },
          "last_updated":"1638248340"
       }
