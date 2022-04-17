@@ -5,6 +5,14 @@
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
+      "1":{
+         "title":"Toa Mirraz VS. Blazer (by rex_rissole)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MQK5ZHd/"
+         },
+         "last_updated":"1638248340"
+      },
       "2":{
          "title":"Blazer VS. Toa Mirraz (by mithryl)",
          "volume":"1",
@@ -21,6 +29,14 @@
          },
          "last_updated":"1638248340"
       },
+      "4":{
+         "title":"Tiny Squim VS. Fujoshi Na Faita (by Pengogo and breaknbake)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rLXuabO/"
+         },
+         "last_updated":"1638248340"
+      },
       "5":{
          "title":"Peter Butter & Pain VS. Fath Kakdalbomrek (by Slug)",
          "volume":"1",
@@ -29,11 +45,75 @@
          },
          "last_updated":"1638248340"
       },
+      "6":{
+         "title":"Fath Kakdalbomrek VS. Peter Butter & Pain (by baubleboy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kF05PUK/"
+         },
+         "last_updated":"1638248340"
+      },
+      "7":{
+         "title":"Arsene Lupin the 13th VS. Go and Slice (by Ledgem)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PTPKphD/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Go and Slice VS. Arsene Lupin the 13th (by Kipp)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9wtFXMx/"
+         },
+         "last_updated":"1638248340"
+      },
       "9":{
          "title":"The Tinas and Formula Reference VS. Snowball and Company (by L-Mop)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/jqoYE8A/"
+         },
+         "last_updated":"1638248340"
+      },
+      "11":{
+         "title":"Parzel and Vasya VS. The Hop Squad (by doodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/TS8xkcx/"
+         },
+         "last_updated":"1638248340"
+      },
+      "12":{
+         "title":"The Hop Squad VS. Parzel and Vasya (by Charlamagne)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uoHImcm/"
+         },
+         "last_updated":"1638248340"
+      },
+      "13":{
+         "title":"The Flame Fellas  VS. King of All the Courts VS. Caiedor (by Sal)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9jUh3kM/"
+         },
+         "last_updated":"1638248340"
+      },
+      "14":{
+         "title":"King of All the Courts VS. Caiedor VS. The Flame Fellas  (by Goatwright)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9gpnSgL/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"Caiedor VS. The Flame Fellas  VS. King of All the Courts (by Aegis)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/tTWoMix/"
          },
          "last_updated":"1638248340"
       }
