@@ -5,6 +5,14 @@
    "author":"The creator of each comic has been placed after the characters fighting",
    "cover":"https://i.imgur.com/ooHXuCa.png",
    "chapters":{
+      "1":{
+         "title":"Toki Shiromiya (by arkeis)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MhPgCeo/"
+         },
+         "last_updated":"1638248340"
+      },
       "3":{
          "title":"Fang & Minions (by DJ Napstablook)",
          "volume":"1",
@@ -85,6 +93,30 @@
          },
          "last_updated":"1638248340"
       },
+      "26":{
+         "title":"Thrasher (by TortoiseNotTurtle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/i18YpyE/"
+         },
+         "last_updated":"1638248340"
+      },
+      "28":{
+         "title":"Wiku & Cats (by Rat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/wgkLrBk/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"Cardghost (by Kaboom)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rqEeyVW/"
+         },
+         "last_updated":"1638248340"
+      },
       "31":{
          "title":"Radeline (by Spookie)",
          "volume":"1",
@@ -114,6 +146,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/md4dv1e/"
+         },
+         "last_updated":"1638248340"
+      },
+      "37":{
+         "title":"Zhaiwu (by Rags)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PNcOMtB/"
          },
          "last_updated":"1638248340"
       },
