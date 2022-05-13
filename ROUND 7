@@ -1,0 +1,73 @@
+{
+   "title":"GOKU ROYALE ROUND SEVEN",
+   "description":"A compilation of every Round 7 GOKU ROYALE comic. If something looks off, please message Capsule#4659",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "1":{
+         "title":"Toa Mirraz VS. Peter Butter & Pain (by rex_rissole)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Hgcx5Ke/"
+         },
+         "last_updated":"1638248340"
+      },
+      "2":{
+         "title":"Peter Butter & Pain VS. Toa Mirraz (by Slug)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/N7YXIr2/"
+         },
+         "last_updated":"1638248340"
+      },
+      "3":{
+         "title":"Arsene Lupin the 13th VS. Blazer VS. The Tinas and Formula Reference (by Ledgem)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/luq996Y/"
+         },
+         "last_updated":"1638248340"
+      },
+      "4":{
+         "title":"Blazer VS. The Tinas and Formula Reference VS. Arsene Lupin the 13th (by mithryl)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/pPAVNUd/"
+         },
+         "last_updated":"1638248340"
+      },
+      "5":{
+         "title":"The Tinas and Formula Reference VS. Arsene Lupin the 13th VS. Blazer (by L-Mop)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nzCMldC/"
+         },
+         "last_updated":"1638248340"
+      },
+      "6":{
+         "title":"Parzel and Vasya VS. The Flame Fellas  VS. Fujoshi na Faita (by doodle)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/vFUUcW7/"
+         },
+         "last_updated":"1638248340"
+      },
+      "7":{
+         "title":"The Flame Fellas  VS. Fujoshi na Faita VS. Parzel and Vasya (by Sal)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/JR8LeHP/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Fujoshi na Faita VS. Parzel and Vasya VS. The Flame Fellas  (by TheRebelSpy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Pzpp0v6/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
